@@ -14,3 +14,7 @@ a:active{
 	text-decoration: none;
 	color: #03c;/*按下鼠标*/
 }
+body{
+	background: url(../img/background.png) no-repeat center center fixed;
+	background-size: cover;
+}
